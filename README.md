@@ -1,18 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Jasmeet Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Devops enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jassiii-17&label=Profile%20views&color=0e75b6&style=flat" alt="jassiii-17" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jasmeetsingh_17" target="blank"><img src="https://img.shields.io/twitter/follow/jasmeetsingh_17?logo=twitter&style=for-the-badge" alt="jasmeetsingh_17" /></a> </p>
+<p align="left"> <a href="https://x.com/kaffie1517" target="blank"><img src="https://img.shields.io/twitter/follow/jasmeetsingh_17?logo=twitter&style=for-the-badge" alt="jasmeetsingh_17" /></a> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 🛠️ Currently working with **Ansible**, **Terraform**, **Prometheus**, and **Grafana**
 
-- 👨‍💻 All of my projects are available at [https://jassiii.vercel.app/](https://jassiii.vercel.app/)
-
-- 📝 I write articles on [https://jassiii.vercel.app/blogs](https://jassiii.vercel.app/blogs)
+- 📝 I write blogs on [https://jassiii.vercel.app/blogs](https://jasmeetsingh1517.hashnode.dev/)
 
 - 📫 How to reach me **jasmeetsingh171002@gmail.com**
 
