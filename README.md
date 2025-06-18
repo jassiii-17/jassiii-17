@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jasmeet Singh</h1>
-<h3 align="center">A passionate Devops enthusiast.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jassiii-17&label=Profile%20views&color=0e75b6&style=flat" alt="jassiii-17" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 🛠️ Currently working with **Ansible**, **Terraform**, **Prometheus**, and **Grafana**
 
-- 📝 I write blogs on [https://jassiii.vercel.app/blogs](https://jasmeetsingh1517.hashnode.dev/)
+- 📝 I write blogs on [https://jasmeetsingh1517.hashnode.dev/](https://jasmeetsingh1517.hashnode.dev/)
 
 - 📫 How to reach me **jasmeetsingh171002@gmail.com**
 
@@ -29,4 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jassiii-17&show_icons=true&locale=en" alt="jassiii-17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jassiii-17&" alt="jassiii-17" /></p>
