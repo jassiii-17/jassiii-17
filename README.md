@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jassiii-17&label=Profile%20views&color=0e75b6&style=flat" alt="jassiii-17" /> </p>
 
-<p align="left"> <a href="https://x.com/kaffie1517" target="blank"><img src="https://img.shields.io/twitter/follow/jasmeetsingh_17?logo=twitter&style=for-the-badge" alt="jasmeetsingh_17" /></a> </p>
+<p align="left"> <a href="https://x.com/kaffie1517" target="blank"><img src="https://img.shields.io/twitter/follow/jasmeetsingh_1517?logo=twitter&style=for-the-badge" alt="jasmeetsingh_17" /></a> </p>
 
 - 🌱 🛠️ Currently working with **Ansible**, **Terraform**, **Prometheus**, and **Grafana**
 
